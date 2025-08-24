@@ -9,7 +9,6 @@ This app is a great mini-project to demonstrate Flutter plugins, local storage, 
 ## 🚀 Features
 - ✍️ Create and save text notes  
 - 🎙️ Record voice notes with microphone  
-- 🗣️ Automatic **speech-to-text transcription**  
 - 🔍 Smart search across typed + transcribed notes  
 - ▶️ Playback of recorded audio  
 - 🗑️ Delete notes (with audio cleanup)  
